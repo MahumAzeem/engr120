@@ -1,6 +1,7 @@
 ## Engr 120 Software Component
 
 ![Error dispalying the image](https://i.imgur.com/7pj86hm.jpg)
+
 _Prototype of the robot._
 
 This robot was a project for the course 'Engineering 120' at the University of Victoria. I was in charge of the software for this project and posted the source code for this robot here. The project handout may be under the ownership of the univserity so I will withhold posting them here. If there are any questions please email me.
