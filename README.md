@@ -1,4 +1,4 @@
-## Engr 120 Software Component
+## Ella - The Autonomous cable running robot prototype
 
 ![Error dispalying the image](https://i.imgur.com/7pj86hm.jpg)
 
